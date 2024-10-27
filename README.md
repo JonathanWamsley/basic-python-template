@@ -1,2 +1,2 @@
-# basic-python-template
+# Python Github Template
 template for python projects
