@@ -1,6 +1,6 @@
 # Python GitHub Template
 
-![CI](https://github.com/yourusername/your-repo-name/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/jonathanwamsley/basic-python-template/actions/workflows/ci.yml/badge.svg)
 
 This is a template for Python projects, including Black formatting, pytest, and pylint.
 
